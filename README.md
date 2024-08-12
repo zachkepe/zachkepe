@@ -15,7 +15,3 @@
 [![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 
 <!-- Add more badges or sections as needed -->
-
-### 📊 GitHub Stats
-
-![Zachary Kepe's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zachkepe&theme=radical)
