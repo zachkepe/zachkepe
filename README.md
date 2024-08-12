@@ -1,12 +1,21 @@
-## 📊 GitHub Stats
+### Hi there, I'm Zachary Kepe 👋
 
-![Zachary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZacharyKepe&show_icons=true&theme=radical)
+![Zachary Kepe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zachkepe&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachkepe&layout=compact&theme=radical)
 
-![Zachary's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZacharyKepe&theme=radical&no-frame=true&margin-w=15)
+<!-- Optional: You can include other sections like this -->
 
-## 📈 Language Usage
+### 🛠️ Languages and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyKepe&layout=compact&theme=radical)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 
+<!-- Add more badges or sections as needed -->
+
+### 📊 GitHub Stats
+
+![Zachary Kepe's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zachkepe&theme=radical)
