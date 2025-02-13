@@ -29,7 +29,7 @@
 <br>
 
 ![Contribution Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zachkepe&theme=github_dark&utcOffset=-6)
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zachkepe&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachkepe&layout=compact&theme=github_dark&hide_border=true&count_private=true)](https://github.com/zachkepe)
 
 </details>
 
