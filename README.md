@@ -24,13 +24,12 @@
 - 🔬 Interests include Machine Learning, Programming, Web Development, and Computer Vision
 - ♟️ Avid chess player
 
-<details>
-<summary>📈 Detailed GitHub Statistics</summary>
-<br>
 
-![Contribution Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zachkepe&theme=github_dark&utcOffset=-6)
+## 📊 More Statistics
+## 📊 More Statistics
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachkepe&theme=github-dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachkepe&layout=compact&theme=github_dark&hide_border=true)
 
-</details>
 
 <div align="center">
 
