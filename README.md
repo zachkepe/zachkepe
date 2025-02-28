@@ -4,6 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/zachkepe?style=for-the-badge&logo=github)](https://github.com/zachkepe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zacharykepe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zk21@rice.edu)
 
 ![Activity Overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachkepe&theme=github_dark)
 
@@ -24,15 +25,10 @@
 - 🔬 Interests include Machine Learning, Programming, Web Development, and Computer Vision
 - ♟️ Avid chess player
 
+<div align="center">
+
 ## 📊 More Statistics
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachkepe&theme=github-dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachkepe&layout=compact&theme=github_dark&hide_border=true)
-
-
-<div align="center">
-
-### 📫 Get in Touch
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zk21@rice.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharykepe)
 
 </div>
