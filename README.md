@@ -28,7 +28,7 @@
 <div align="center">
 
 ## 📊 More Statistics
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachkepe&theme=github-dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zachkepe&background=1F2A44&border=3776AB&stroke=3776AB&ring=3776AB&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3776AB&sideLabels=FFFFFF&dates=FFFFFF)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachkepe&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
