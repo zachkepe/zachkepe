@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/zachkepe?style=for-the-badge&logo=github)](https://github.com/zachkepe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zacharykepe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zk21@rice.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachkepe@gmail.com)
 
 ![Activity Overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachkepe&theme=github_dark)
 
